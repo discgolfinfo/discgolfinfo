@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "ru-RU",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "discgolfinfo.ru",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
