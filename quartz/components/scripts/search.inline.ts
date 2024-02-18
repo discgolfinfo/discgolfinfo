@@ -15,7 +15,16 @@ interface Item {
 type SearchType = "basic" | "tags"
 let searchType: SearchType = "basic"
 let currentSearchTerm: string = ""
-const encoder = (str: string) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/)
+
+function encoder(str: string): string[] {
+  return (
+    str
+    .toLowerCase()
+    // .replace(/['!"#$%&\\()\*+,-./:;<=>?@[\]^_`{|}~]/g, "")
+    .split(/\s+/)
+  );
+}
+
 let index = new FlexSearch.Document<Item>({
   charset: "latin:extra",
   encode: encoder,
@@ -24,11 +33,11 @@ let index = new FlexSearch.Document<Item>({
     index: [
       {
         field: "title",
-        tokenize: "forward",
+        tokenize: "full",
       },
       {
         field: "content",
-        tokenize: "forward",
+        tokenize: "full",
       },
       {
         field: "tags",
