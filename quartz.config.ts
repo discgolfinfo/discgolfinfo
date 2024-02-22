@@ -6,7 +6,10 @@ const config: QuartzConfig = {
     pageTitle: "Диск-гольф инфо",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: 'plausible',
+      host: 'https://plausible.discgolfinfo.ru',
+    },
     locale: "ru-RU",
     baseUrl: "discgolfinfo.ru",
     ignorePatterns: ["private", "templates", ".obsidian"],
