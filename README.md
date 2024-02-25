@@ -6,3 +6,4 @@
 Если у вас возникли вопросы или предложения, то их можно написать в чате [Telegram](https://t.me/+BTFiRCqea1U5YTEy).
 
 Сайт сделан с помощью https://quartz.jzhao.xyz/
+
