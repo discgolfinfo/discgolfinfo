@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileNode } from "./quartz/components/ExplorerNode"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -12,6 +13,14 @@ export const sharedPageComponents: SharedLayout = {
     },
   }),
 }
+
+
+function isHiddenNode(node: FileNode): boolean {
+  // set containing names of everything you want to filter out
+  const omit = new Set(["drafts-5b7b1a90-1513-4d48-a279-a3bf25d44578"])
+  return !omit.has(node.name.toLowerCase())
+}
+
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
@@ -28,7 +37,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      filterFn: isHiddenNode,
+    })),
   ],
   right: [
     Component.Graph(),
@@ -51,7 +62,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      filterFn: isHiddenNode,
+    })),
   ],
   right: [],
 }
