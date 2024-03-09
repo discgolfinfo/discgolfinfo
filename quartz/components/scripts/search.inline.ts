@@ -382,6 +382,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
         }
         const html = p.parseFromString(contents ?? "", "text/html")
         normalizeRelativeURLs(html, targetUrl)
+        addSlugToAnchorURLs(html, slug)
         return [...html.getElementsByClassName("popover-hint")]
       })
 
@@ -399,6 +400,14 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     previewInner.classList.add("preview-inner")
     previewInner.append(...innerDiv)
     preview.replaceChildren(previewInner)
+
+    const handler = (event: MouseEvent) => {
+      // event.preventDefault() needed?
+      if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return
+      hideSearch()
+    }
+    preview.addEventListener("click", handler)
+    window.addCleanup(() => preview!.removeEventListener("click", handler))
 
     // scroll to longest
     const highlights = [...preview.querySelectorAll(".highlight")].sort(
@@ -493,4 +502,15 @@ async function fillDocument(data: { [key: FullSlug]: ContentDetails }) {
   }
 
   return await Promise.all(promises)
+}
+
+
+function addSlugToAnchorURLs(el: Element | Document, slug: string) {
+  el.querySelectorAll('[href^="#"]').forEach((item) =>
+    _addSlugToAnchorURL(item, slug)
+  )
+}
+
+function _addSlugToAnchorURL(el: Element, slug: string | URL) {
+  el.setAttribute("href", slug + el.getAttribute("href")!)
 }
