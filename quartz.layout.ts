@@ -17,7 +17,7 @@ export const sharedPageComponents: SharedLayout = {
 
 function isHiddenNode(node: FileNode): boolean {
   // set containing names of everything you want to filter out
-  const omit = new Set(["drafts-5b7b1a90-1513-4d48-a279-a3bf25d44578"])
+  const omit = new Set(["tags"])
   return !omit.has(node.name.toLowerCase())
 }
 
