@@ -90,16 +90,19 @@ export function renderPage(
               }
             }
 
+            const hide_link_to_original = blockRef.startsWith("hidden-")
+            const link_to_original: Element = {
+              type: "element",
+              tagName: "a",
+              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+              children: [
+                { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
+              ],
+            }
+
             node.children = [
               normalizeHastElement(blockNode, slug, transcludeTarget),
-              {
-                type: "element",
-                tagName: "a",
-                properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
-                children: [
-                  { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
-                ],
-              },
+              ...(hide_link_to_original ? [] : [link_to_original]),
             ]
           }
         } else if (blockRef?.startsWith("#") && page.htmlAst) {
