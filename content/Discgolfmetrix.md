@@ -6,4 +6,19 @@
 
 Страница с инструкциями частично переведена на [русский](https://discgolfmetrix.com/?u=rule&ID=2&locale=ru), но если что-то непонятно или отсутствует, всегда можно воспользоваться полной версией на [английском](https://discgolfmetrix.com/?u=rule&ID=2&locale=en). 
 
-Если есть потребность в добавлении инструкции на этот сайт или другие предложения по содержимому, то напишите в чат [Telegram](https://t.me/+BTFiRCqea1U5YTEy).
+### Видео инструкции
+Спасибо каналу [Диск-гольф Санкт-Петербург](https://vkvideo.ru/@discgolfspb) за полезные и понятные видео:
+- Регистрация и настройки - [ссылка на VK Видео](https://vkvideo.ru/video-153141599_456239065)
+<iframe src="https://vk.com/video_ext.php?oid=-153141599&id=456239065" width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>
+
+- Как создать парк - [ссылка на VK Видео](https://vkvideo.ru/video-153141599_456239066)
+<iframe src="https://vk.com/video_ext.php?oid=-153141599&id=456239066" width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>
+
+- Тренировка - [ссылка на VK Видео](https://vkvideo.ru/video-153141599_456239067)
+<iframe src="https://vk.com/video_ext.php?oid=-153141599&id=456239067" width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>
+
+- Создаем турнир - [ссылка на VK Видео](https://vkvideo.ru/video-153141599_456239068)
+<iframe src="https://vk.com/video_ext.php?oid=-153141599&id=456239068" width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>
+
+
+Если у вас возникли вопросы или предложения, то их можно написать в чате [Telegram](https://t.me/+BTFiRCqea1U5YTEy).
