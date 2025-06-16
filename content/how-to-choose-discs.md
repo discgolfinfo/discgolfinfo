@@ -1,3 +1,9 @@
+---
+title: "Как выбрать диски"
+aliases:
+  - "Как выбрать диски"
+  - "Как-выбрать-диски"
+---
 - [[disc-manufacturers|Производители дисков]]
 - [Таблица характеристик дисков на сайте Marshall Street Discgolf (Flight Guide)](https://www.marshallstreetdiscgolf.com/flightguide)
 ### Чем отличаются диски для диск-гольфа и какой диск выбрать новичку?
