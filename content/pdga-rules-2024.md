@@ -1,4 +1,8 @@
 ---
+title: "Правила PDGA 2024"
+aliases:
+  - "Правила PDGA 2024"
+  - "Правила-PDGA-2024"
 tags:
   - правила
 disablePopovers: true
