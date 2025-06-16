@@ -15,7 +15,7 @@ title: Главная страница
 - [[where-to-play|Где поиграть]]
 - [[discgolf-history|История диск-гольфа]]
 - [[how-to-choose-discs|Как выбрать диски]]
-- [[Где купить диски]]
+- [[where-to-buy-discs|Где купить диски]]
 - [[disc-manufacturers|Производители дисков]]
 - [[training-guidelines|Подготовка к игре]]
 - [[discgolf-dictionary-ru|Словарь диск-гольф терминов]]
