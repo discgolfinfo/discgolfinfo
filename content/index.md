@@ -19,7 +19,7 @@ title: Главная страница
 - [[disc-manufacturers|Производители дисков]]
 - [[training-guidelines|Подготовка к игре]]
 - [[discgolf-dictionary-ru|Словарь диск-гольф терминов]]
-- [[Discgolfmetrix]]
+- [[discgolfmetrix|Discgolfmetrix]]
 - [[Видеоресурсы]]
 - [[events-2024|Турниры 2024]]
 - [[discgolf-baskets|Корзины для диск-гольфа]]
