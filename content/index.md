@@ -20,7 +20,7 @@ title: Главная страница
 - [[training-guidelines|Подготовка к игре]]
 - [[discgolf-dictionary-ru|Словарь диск-гольф терминов]]
 - [[discgolfmetrix|Discgolfmetrix]]
-- [[Видеоресурсы]]
+- [[video-resources|Видеоресурсы]]
 - [[events-2024|Турниры 2024]]
 - [[discgolf-baskets|Корзины для диск-гольфа]]
 - [[all-about-putts|Всё о паттах]]

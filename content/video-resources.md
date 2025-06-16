@@ -1,3 +1,8 @@
+---
+title: "Видеоресурсы"
+aliases:
+  - "Видеоресурсы"
+---
 - YouTube канал [Диск-гольф Россия](https://www.youtube.com/@discgolf_russia)
 - VK Видео [Диск-гольф Санкт-Петербург](https://vkvideo.ru/@discgolfspb)
 - VK Видео [Диск-гольф Калининград](https://vkvideo.ru/@discgolf_kaliningrad)
