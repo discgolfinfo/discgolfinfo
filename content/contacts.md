@@ -29,8 +29,8 @@ tags:
 ## [[Нижний Новгород]]
 ![[Нижний Новгород#^hidden-nn-contacts]]
 
-## [[Белгород]]
-![[Белгород#^hidden-belgorod-contacts]]
+## [[cities-belgorod|Белгород]]
+![[cities-belgorod#^hidden-belgorod-contacts]]
 
 ## [[Псков]]
 ![[Псков#^hidden-pskov-contacts]]
