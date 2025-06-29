@@ -17,35 +17,35 @@ tags:
 ## [[rdga|РДГА (Российская Диск-Гольф Ассоциация)]]
 ![[rdga#^hidden-rdga-contacts]]
 
-## [[Москва]]
-![[Москва#^hidden-msk-contacts]]
+## [[cities-moscow|Москва]]
+![[cities-moscow#^hidden-msk-contacts]]
 
-## [[Санкт-Петербург]]
-![[Санкт-Петербург#^hidden-spb-contacts]]
+## [[cities-saint-petersburg|Санкт-Петербург]]
+![[cities-saint-petersburg#^hidden-spb-contacts]]
 
-## [[Екатеринбург]]
-![[Екатеринбург#^hidden-ekb-contacts]]
+## [[cities-yekaterinburg|Екатеринбург]]
+![[cities-yekaterinburg#^hidden-ekb-contacts]]
 
-## [[Нижний Новгород]]
-![[Нижний Новгород#^hidden-nn-contacts]]
+## [[cities-nizhny-novgorod|Нижний Новгород]]
+![[cities-nizhny-novgorod#^hidden-nn-contacts]]
 
 ## [[cities-belgorod|Белгород]]
 ![[cities-belgorod#^hidden-belgorod-contacts]]
 
-## [[Псков]]
-![[Псков#^hidden-pskov-contacts]]
+## [[cities-pskov|Псков]]
+![[cities-pskov#^hidden-pskov-contacts]]
 
-## [[Тольятти]]
-![[Тольятти#^hidden-tlt-contacts]]
+## [[cities-tolyatti|Тольятти]]
+![[cities-tolyatti#^hidden-tlt-contacts]]
 
-## [[Калининград]]
-![[Калининград#^hidden-kaliningrad-contacts]]
+## [[cities-kaliningrad|Калининград]]
+![[cities-kaliningrad#^hidden-kaliningrad-contacts]]
 
-## [[Набережные Челны]]
-![[Набережные Челны#^hidden-chelny-contacts]]
+## [[cities-naberezhnye-chelny|Набережные Челны]]
+![[cities-naberezhnye-chelny#^hidden-chelny-contacts]]
 
 ## [[cities-velikiye-luki|Великие Луки]]
 ![[cities-velikiye-luki#^hidden-velikiye-luki-contacts]]
 
-## [[Рыбинск]]
-![[Рыбинск#^hidden-rybinsk-contacts]]
+## [[cities-rybinsk|Рыбинск]]
+![[cities-rybinsk#^hidden-rybinsk-contacts]]
