@@ -1,3 +1,8 @@
+---
+title: "Discgolfmetrix"
+aliases:
+  - "Discgolfmetrix"
+---
 [Discgolfmetrix](https://discgolfmetrix.com/&locale=ru) или просто метрикс - это основной инструмент, с помощью которого ведется счет во время раундов, будь то городская лига, чемпионат России или обычная тренировка.
 
 Чтобы [создать новое соревнование](https://discgolfmetrix.com/?u=competition_add_type&competitiontype=2&locale=ru) или [посмотреть свою игровую статистику](https://discgolfmetrix.com/?u=mystat&locale=ru) необходимо [зарегистрироваться](https://discgolfmetrix.com/?u=login#panel2).

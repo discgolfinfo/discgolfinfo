@@ -1,0 +1,35 @@
+---
+title: "Диск-гольф парк Сколково"
+tags:
+  - парк
+aliases:
+  - "Диск-гольф парк Сколково"
+  - "Парки/Диск-гольф-парк-Сколково"
+---
+Город: [[cities-moscow|Москва]]
+
+[Парк на Яндекс картах](https://yandex.ru/maps/-/CDSxmLkL)
+
+Ссылка для копирования:
+```
+https://yandex.ru/maps/-/CDSxmLkL
+```
+
+<div style="position:relative;overflow:hidden;"><a href="https://yandex.ru/maps/org/disk_golf_park_skolkovo/125402973807/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Диск-гольф-парк Сколково</a><a href="https://yandex.ru/maps/213/moscow/category/park/184106346/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:14px;">Парк культуры и отдыха в Москве</a><a href="https://yandex.ru/maps/213/moscow/category/square/223334343586/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:28px;">Сквер в Москве</a><iframe src="https://yandex.ru/map-widget/v1/?indoorLevel=1&ll=37.349435%2C55.692287&mode=search&oid=125402973807&ol=biz&z=17.57" class="yandex-maps-embed"  frameborder="0" allowfullscreen="true" style="position:relative;"></iframe></div>
+
+
+Оригинал этой страницы можно посмотреть на сайте [ahoydiscs.ru](https://ahoydiscs.ru/disk-golf-park-skolkovo/)
+
+В Сколково регулярно проводятся мини-соревнования и тренировки по диск-гольфу. Не стесняйтесь, пишите  нам, если хотите попробовать этот великолепный вид спорта и досуга. Ниже вы найдете всю необходимую информацию – расписание турниров и мастер-классов, а также схему отрезков.
+
+Доступ в парк открыт для всех желающих. Играть можно абсолютно бесплатно круглый год пока не выпал или не растаял снег. Одевайтесь удобно и по погоде.
+
+### Как добраться до парка?
+
+На машине: до [бесплатной парковки](https://yandex.ru/navi/?whatshere%5Bpoint%5D=37.346750%2C55.699052&whatshere%5Bzoom%5D=18&lang=ru&from=navi),  далее пешком 10 минут, до [шатров.](https://yandex.ru/navi/-/CCQ36Aa6OA) Там находится первая ТИ (точка откуда игроки совершают свой первый бросок в сторону корзины)
+
+На общественном транспорте: От Белорусского вокзала на МЦД (Аэропорт Шереметьево – Одинцово) до остановки Сколково (бывш. Инновационный центр), далее пешком 10 минут, до [шатров.](https://yandex.ru/navi/-/CCQ36Aa6OA)
+
+Дополнительную информацию вы можете найти, перейдя по ссылкам ниже:
+- [discgolfmetrix.com](https://discgolfmetrix.com/course/16797)
+- [udisc.com](https://udisc.com/courses/skolkovo-dgp-Yaje)

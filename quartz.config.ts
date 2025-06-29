@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "ru-RU",
     baseUrl: "discgolfinfo.ru",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "dev"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

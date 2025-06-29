@@ -1,0 +1,16 @@
+---
+title: "Псков"
+aliases:
+  - "Псков"
+  - "Города/Псков"
+---
+## Парки
+- [[parks-zvanskoe|Диск-гольф парк Званское]]
+
+^hidden-parks
+
+## Контакты
+- [Telegram чат ДГ парк Званское](https://t.me/+Tv63ewM5Zuc3MTY6)
+- [VK группа Диск гольф в Псковской области](https://vk.com/discgolfpskov)
+
+^hidden-pskov-contacts

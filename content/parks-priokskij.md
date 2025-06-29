@@ -1,0 +1,34 @@
+---
+title: "Диск-гольф парк Приокский"
+tags:
+  - парк
+aliases:
+  - "Диск-гольф парк Приокский"
+  - "Парки/Диск-гольф-парк-Приокский"
+---
+Город: [[cities-nizhny-novgorod|Нижний Новгород]]
+
+[Парк на Яндекс картах](https://yandex.ru/maps/-/CDSxJWNB)
+
+Ссылка для копирования:
+```
+https://yandex.ru/maps/-/CDSxJWNB
+```
+
+<div style="position:relative;overflow:hidden;"><a href="https://yandex.ru/maps/47/nizhny-novgorod/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Нижний Новгород</a><a href="https://yandex.ru/maps/47/nizhny-novgorod/geo/disk_golf_park_priokskiy/4631883283/?ll=43.942957%2C56.230958&utm_medium=mapframe&utm_source=maps&z=17.57" style="color:#eee;font-size:12px;position:absolute;top:14px;">Диск-гольф парк Приокский — Яндекс Карты</a><iframe src="https://yandex.ru/map-widget/v1/?ll=43.942957%2C56.230958&mode=search&ol=geo&ouri=ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgo0NjMxODgzMjgzElzQoNC-0YHRgdC40Y8sINCd0LjQttC90LjQuSDQndC-0LLQs9C-0YDQvtC0LCDQlNC40YHQui3Qs9C-0LvRjNGEINC_0LDRgNC6INCf0YDQuNC-0LrRgdC60LjQuSIKDX_FL0IVWexgQg%2C%2C&z=17.57" class="yandex-maps-embed"  frameborder="0" allowfullscreen="true" style="position:relative;"></iframe></div>
+
+
+Оригинал этой страницы можно посмотреть на сайте [ahoydiscs.ru](https://ahoydiscs.ru/disk-golf-park-priokskij/)
+
+5 июля при поддержке руководства и профсоюзной организации НИИИС им. Ю.Е. Седакова, а также администрации Приокского района состоялось открытие диск-гольф парка в сквере около НИИИС.
+
+Торжественную церемонию провели: президент ассоциации диск-гольфа России Макаров Александр, заместитель главы администрации Приокского района Веприков Вадим Николаевич, заместитель директора филиала по управлению персоналом Гребнев Сергей Иванович, руководитель инициативной группы по созданию диск-гольф парка Сорочкин Сергей, председатель спортивного клуба “Квант” Федотов Сергей Викторович и заместитель председателя Совета молодежи Марков Алексей.
+
+Диск-гольф – это стремительно набирающий популярность в России вид спорта, который доступен всем желающим.
+
+Приглашаем обучиться игре. Бесплатный прокат дисков организован в спортивном зале “Квант 1” (ул. Тропинина, 47А).
+Режим работы: 8:00 – 22:00 (кроме субботы).
+
+Дополнительную информацию вы можете найти, перейдя по ссылкам ниже:
+- [discgolfmetrix.com](https://discgolfmetrix.com/course/28276)
+- [udisc.com](https://udisc.com/courses/prioksky-zRbj)

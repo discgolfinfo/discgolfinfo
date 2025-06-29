@@ -1,0 +1,18 @@
+---
+title: "Видеоресурсы"
+aliases:
+  - "Видеоресурсы"
+---
+- YouTube канал [Диск-гольф Россия](https://www.youtube.com/@discgolf_russia)
+- VK Видео [Диск-гольф Санкт-Петербург](https://vkvideo.ru/@discgolfspb)
+- VK Видео [Диск-гольф Калининград](https://vkvideo.ru/@discgolf_kaliningrad)
+- VK Видео [Дискгольф клуб Екатеринбурга](https://vkvideo.ru/@discgolf_ekb)
+- Дзен [На коленке. Личный блог Кирилла Голубева.](https://dzen.ru/nakolenke)
+
+### YouTube каналы (на английском)
+- [JomezPro](https://www.youtube.com/@JomezPro)- видео основных мировых турниров с комментариями
+- [Overthrow Disc Golf](https://www.youtube.com/@OverthrowDiscGolf)- обучающие видео с разбором ошибок в технике бросков, подготовительные упражнения для формирования правильной техники
+- [Disc Golf Strong](https://www.youtube.com/@DiscGolfStrong) - различные упражнения для предотвращения травм и подготовки к серьезным нагрузкам, комплексы зарядок и разминок
+- [Sling Shot Disc Golf](https://www.youtube.com/@slingshotdiscgolf1897) - автор смог увеличить дальность броска с 90 до 150м, анализируя технику профессиональных игроков, и делится своим опытом в видео
+- [DynamicDiscs](https://www.youtube.com/@dynamicdiscs) - обучающие видео и много всего ещё
+- [Robbie C Discgolf](https://www.youtube.com/c/RobbieCDiscGolf) - автор выпускает довольно много видео для новичков с различными советами
