@@ -44,8 +44,8 @@ tags:
 ## [[Набережные Челны]]
 ![[Набережные Челны#^hidden-chelny-contacts]]
 
-## [[Великие Луки]]
-![[Великие Луки#^hidden-velikiye-luki-contacts]]
+## [[cities-velikiye-luki|Великие Луки]]
+![[cities-velikiye-luki#^hidden-velikiye-luki-contacts]]
 
 ## [[Рыбинск]]
 ![[Рыбинск#^hidden-rybinsk-contacts]]
