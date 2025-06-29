@@ -5,7 +5,9 @@ aliases:
   - "Города/Калининград"
 ---
 ## Парки
-- [[Диск-гольф парк Калининград]]
+- [[parks-kaliningrad|Диск-гольф парк Калининград]]
+
+^hidden-parks
 
 ## Контакты
 - [Telegram канал Диск-гольф Калининград](https://t.me/discgolf_Kaliningrad)

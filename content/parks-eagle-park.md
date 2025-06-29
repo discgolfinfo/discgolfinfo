@@ -1,6 +1,10 @@
 ---
+title: "Диск-гольф парк Eagle Park"
 tags:
   - парк
+aliases:
+  - "Диск-гольф парк Eagle Park"
+  - "Парки/Диск-гольф-парк-Eagle-Park"
 ---
 Город: [[cities-rybinsk|Рыбинск]]
 

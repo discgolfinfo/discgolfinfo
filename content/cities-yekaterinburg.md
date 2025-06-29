@@ -5,7 +5,9 @@ aliases:
   - "Города/Екатеринбург"
 ---
 ## Парки
-- [[Диск-гольф парк Уктус]]
+- [[parks-uktus|Диск-гольф парк Уктус]]
+
+^hidden-parks
 
 ## Контакты
 - [Telegram канал DiscGolf_Ekb](https://t.me/discgolf_ekb)

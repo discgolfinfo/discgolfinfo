@@ -5,7 +5,9 @@ aliases:
   - "Города/Рыбинск"
 ---
 ## Парки
-- [[Диск-гольф парк Eagle Park]]
+- [[parks-eagle-park|Диск-гольф парк Eagle Park]]
+
+^hidden-parks
 
 ## Контакты
 - [Telegram чат Диск-гольф Рыбинск. Eagle Park](https://t.me/DiscGolfRybinsk)
