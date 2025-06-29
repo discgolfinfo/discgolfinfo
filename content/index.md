@@ -25,5 +25,7 @@ title: Главная страница
 - [[discgolf-baskets|Корзины для диск-гольфа]]
 - [[all-about-putts|Всё о паттах]]
 - [[discgolf-course-design|Проектирование полей для диск-гольфа]]
+- [[parks|Парки]]
+- [[cities|Города]]
 
-[[contacts|Контакты]]
+### [[contacts|Контакты]]
