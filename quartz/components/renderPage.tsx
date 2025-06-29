@@ -99,6 +99,10 @@ export function renderPage(
                 { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
               ],
             }
+            if (hide_link_to_original) {
+              classNames.push('hidden-border')
+              node.properties.className = classNames
+            }
 
             node.children = [
               normalizeHastElement(blockNode, slug, transcludeTarget),
